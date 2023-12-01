@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+}
+
+h3{
+    text-align: left;
+}
+
+h4{
+    text-shadow: 2px 2px;
+    text-align: center;
+}
+
+img {
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+}
+
+footer {
+    grid-area: footer;
+    background-color: #f1f1f1;
+    padding: 25px;
+    text-align: center;
+    position: relative;
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
